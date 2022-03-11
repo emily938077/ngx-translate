@@ -8,7 +8,7 @@
         [value]="lang"
         [selected]="lang === translate.currentLang"
       >
-        {{ lang }}
+        {{ 'LANG.' + lang | translate }}
       </option>
     </select>
   </label>

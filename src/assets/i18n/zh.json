@@ -2,5 +2,10 @@
   "HOME": {
     "TITLE": "歡迎來到angular 並使用 ngx-translate!",
     "SELECT": "選擇語言"
+  },
+  "LANG": {
+    "zh": "中文",
+    "fr": "法文",
+    "en": "英文"
   }
 }

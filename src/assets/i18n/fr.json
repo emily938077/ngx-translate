@@ -2,5 +2,10 @@
   "HOME": {
     "TITLE": "Bonjour Angular avec ngx-translate !",
     "SELECT": "Changer la langue"
+  },
+  "LANG": {
+    "zh": "chinois",
+    "fr": "français",
+    "en": "Anglais"
   }
 }
